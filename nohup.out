@@ -1,0 +1,4 @@
+./compiled_script.sh.x: line 26: kill: (1424) - No such process
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Скрипт успешно запущен. Ожидание новых команд пользователей
+Для остановки скрипта выполните sudo kill 1440
