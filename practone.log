@@ -1,0 +1,129 @@
+2024-09-16 18:02:13.107 +0000 garifullin_vlad_olegovish: Сгенерирован новый UUID: jQUdmkyTif59Lo1bJEtqUSnHaga423ZXERWzpx/NrlbC6QBDNeQhQ6bQllOsUqIeCItBUiqML3m2W8roQofS4rIwMi18VHOn5Q6P2UyD9AtUDUIWpdBggPRxPYgovEMBBYWl4b/TzQ3/hm2WkjoT+ikYL26v5xUKvJ8nQx6Ll1kjiklz7maWPOGQcupD/rJd960YJl0Ylt2JqhE0vTnVxBilAc2eZz9Gjyq0pE4yl+yYxBBR/tMWF8pszX/nV6sNw6g4OoTghIE/04JoSuMzR57c+UTkD7BVnq8Ehg9MUbTq3KrRqyTro3Jicr4a+FfU+y+ozvEGONQC3Zns+75USg==
+2024-09-16 18:02:13.109 +0000 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+
+2024-09-17 14:39:51.175 +0000 garifullin_vlad_olegovish: UUID использован из /var/log/last_uuid.txt: jQUdmkyTif59Lo1bJEtqUSnHaga423ZXERWzpx/NrlbC6QBDNeQhQ6bQllOsUqIeCItBUiqML3m2W8roQofS4rIwMi18VHOn5Q6P2UyD9AtUDUIWpdBggPRxPYgovEMBBYWl4b/TzQ3/hm2WkjoT+ikYL26v5xUKvJ8nQx6Ll1kjiklz7maWPOGQcupD/rJd960YJl0Ylt2JqhE0vTnVxBilAc2eZz9Gjyq0pE4yl+yYxBBR/tMWF8pszX/nV6sNw6g4OoTghIE/04JoSuMzR57c+UTkD7BVnq8Ehg9MUbTq3KrRqyTro3Jicr4a+FfU+y+ozvEGONQC3Zns+75USg==
+2024-09-17 14:39:51.177 +0000 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-17 14:39:52.298 +0000 garifullin_vlad_olegovish : nohup sudo ./compiled_script.sh.x
+2024-09-17 14:45:24.021 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 14:46:20.682 +0000 garifullin_vlad_olegovish: UUID использован из /var/log/last_uuid.txt: jQUdmkyTif59Lo1bJEtqUSnHaga423ZXERWzpx/NrlbC6QBDNeQhQ6bQllOsUqIeCItBUiqML3m2W8roQofS4rIwMi18VHOn5Q6P2UyD9AtUDUIWpdBggPRxPYgovEMBBYWl4b/TzQ3/hm2WkjoT+ikYL26v5xUKvJ8nQx6Ll1kjiklz7maWPOGQcupD/rJd960YJl0Ylt2JqhE0vTnVxBilAc2eZz9Gjyq0pE4yl+yYxBBR/tMWF8pszX/nV6sNw6g4OoTghIE/04JoSuMzR57c+UTkD7BVnq8Ehg9MUbTq3KrRqyTro3Jicr4a+FfU+y+ozvEGONQC3Zns+75USg==
+2024-09-17 14:46:20.683 +0000 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-17 14:46:37.714 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 14:54:42.224 +0000 garifullin_vlad_olegovish : cd /var/log
+2024-09-17 14:54:45.324 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 14:54:54.642 +0000 garifullin_vlad_olegovish : cat command_history.log
+2024-09-17 15:03:23.069 +0000 garifullin_vlad_olegovish : aname
+2024-09-17 15:04:31.393 +0000 garifullin_vlad_olegovish : whoami
+2024-09-17 15:04:57.319 +0000 garifullin_vlad_olegovish : cd /
+2024-09-17 15:04:59.398 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 15:05:03.476 +0000 garifullin_vlad_olegovish : type ls
+2024-09-17 15:05:06.606 +0000 garifullin_vlad_olegovish : type cd
+2024-09-17 15:05:26.506 +0000 garifullin_vlad_olegovish : ls /home
+2024-09-17 15:05:37.914 +0000 garifullin_vlad_olegovish : cd /tmp
+2024-09-17 15:07:02.653 +0000 garifullin_vlad_olegovish : mkdir pt
+2024-09-17 15:07:04.719 +0000 garifullin_vlad_olegovish : cd pt
+2024-09-17 15:07:25.660 +0000 garifullin_vlad_olegovish : touch 1.txt 2.txt 3.txt
+2024-09-17 15:07:50.708 +0000 garifullin_vlad_olegovish : nano 1.txt
+2024-09-17 15:08:17.694 +0000 garifullin_vlad_olegovish : vim 2.txt
+2024-09-17 15:08:51.065 +0000 garifullin_vlad_olegovish : cd ..
+2024-09-17 15:10:46.672 +0000 garifullin_vlad_olegovish : cp -r pt newpt
+2024-09-17 15:10:47.695 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 15:11:33.695 +0000 garifullin_vlad_olegovish : cd newpt
+2024-09-17 15:11:33.697 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 15:11:37.854 +0000 garifullin_vlad_olegovish : cd ..
+2024-09-17 15:13:34.215 +0000 garifullin_vlad_olegovish : tar -cvf Newpr.tar newpt
+2024-09-17 15:13:56.410 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 15:14:28.819 +0000 garifullin_vlad_olegovish : tar -xvf Newpr.tar
+2024-09-17 15:14:37.159 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 15:15:25.048 +0000 garifullin_vlad_olegovish : tar -xvf Newpr.tar.gz
+2024-09-17 15:15:33.249 +0000 garifullin_vlad_olegovish : tar -xvf Newpr.tar
+2024-09-17 15:16:24.743 +0000 garifullin_vlad_olegovish : ls ~ ls /usr
+2024-09-17 15:17:22.176 +0000 garifullin_vlad_olegovish : ls -r 
+2024-09-17 15:22:48.982 +0000 garifullin_vlad_olegovish : ls -la
+2024-09-17 15:23:13.833 +0000 garifullin_vlad_olegovish : ls -la pt
+2024-09-17 15:23:24.225 +0000 garifullin_vlad_olegovish : cd pt
+2024-09-17 15:23:25.291 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 15:23:39.268 +0000 garifullin_vlad_olegovish : ls -la 1.txt 2.txt 3.txt
+2024-09-17 15:24:11.616 +0000 garifullin_vlad_olegovish : mv 3.txt 13.txt
+2024-09-17 15:24:18.812 +0000 garifullin_vlad_olegovish : mv 13.txt /tmp
+2024-09-17 15:24:20.858 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 15:24:22.920 +0000 garifullin_vlad_olegovish : cd ..
+2024-09-17 15:24:23.998 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 15:24:42.663 +0000 garifullin_vlad_olegovish : whereis ls
+2024-09-17 15:24:49.038 +0000 garifullin_vlad_olegovish : whereis cd
+2024-09-17 15:25:22.306 +0000 garifullin_vlad_olegovish : whois ls; whois nano; whois rm
+2024-09-17 15:26:09.617 +0000 garifullin_vlad_olegovish : whatis ls; whatis nano; whatis rm
+2024-09-17 15:26:52.206 +0000 garifullin_vlad_olegovish : ld
+2024-09-17 15:26:53.302 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 15:27:22.780 +0000 garifullin_vlad_olegovish : ln -s 13.txt linktext
+2024-09-17 15:27:24.859 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 15:28:20.156 +0000 garifullin_vlad_olegovish : ln -s nolink
+2024-09-17 15:28:22.290 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 15:28:29.499 +0000 garifullin_vlad_olegovish : cat nolink
+2024-09-17 15:28:59.489 +0000 garifullin_vlad_olegovish : rm 13.txt
+2024-09-17 15:29:04.699 +0000 garifullin_vlad_olegovish : cat linktext
+2024-09-17 15:31:13.045 +0000 garifullin_vlad_olegovish : cd pt
+2024-09-17 15:31:23.586 +0000 garifullin_vlad_olegovish : ln 1.txt hardlink
+2024-09-17 15:31:24.618 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 15:33:48.500 +0000 garifullin_vlad_olegovish : alias mycom="cd /usr; ls; cd -"
+2024-09-17 15:33:52.719 +0000 garifullin_vlad_olegovish : mycom
+2024-09-17 15:37:46.862 +0000 garifullin_vlad_olegovish : cat > cattext.txt
+2024-09-17 15:37:57.352 +0000 garifullin_vlad_olegovish : cat cattext.txt
+2024-09-17 15:38:27.042 +0000 garifullin_vlad_olegovish : cat >cattext.txt
+2024-09-17 15:38:37.711 +0000 garifullin_vlad_olegovish : cat cattext.txt
+2024-09-17 15:40:11.671 +0000 garifullin_vlad_olegovish : touch myscript.sh
+2024-09-17 16:42:34.880 +0000 garifullin_vlad_olegovish : cat > myscript.sh
+2024-09-17 16:42:55.934 +0000 garifullin_vlad_olegovish : chmod +x myscript.sh
+2024-09-17 16:43:31.024 +0000 garifullin_vlad_olegovish : ./myscript.sh
+2024-09-17 16:43:43.622 +0000 garifullin_vlad_olegovish : cat myscript.sh
+2024-09-17 16:46:57.841 +0000 garifullin_vlad_olegovish : nano myscript.sh
+2024-09-17 16:54:29.284 +0000 garifullin_vlad_olegovish : ./myscript.sh
+2024-09-17 16:54:44.008 +0000 garifullin_vlad_olegovish : sudo ./myscript.sh
+2024-09-17 17:01:55.089 +0000 garifullin_vlad_olegovish : nano myscript.sh
+2024-09-17 17:02:00.286 +0000 garifullin_vlad_olegovish : chmod +x myscript.sh
+2024-09-17 17:02:04.493 +0000 garifullin_vlad_olegovish : ./myscript.sh
+2024-09-17 17:05:30.580 +0000 garifullin_vlad_olegovish : nano myscript.sh
+2024-09-17 17:13:12.772 +0000 garifullin_vlad_olegovish : sudo nano myscript.sh
+2024-09-17 17:13:50.547 +0000 garifullin_vlad_olegovish : ./myscript.sh
+2024-09-17 17:16:14.005 +0000 garifullin_vlad_olegovish : nano ./myscript.sh
+2024-09-17 17:16:18.275 +0000 garifullin_vlad_olegovish : ./myscript.sh
+2024-09-17 17:16:41.240 +0000 garifullin_vlad_olegovish : rm myscript.sh
+2024-09-17 17:16:43.307 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 17:16:55.956 +0000 garifullin_vlad_olegovish : touch myscript.sh
+2024-09-17 17:18:33.443 +0000 garifullin_vlad_olegovish : sudo nano myscript.sh
+2024-09-17 17:18:41.806 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 17:18:46.920 +0000 garifullin_vlad_olegovish : cat myscript.sh
+2024-09-17 17:19:04.547 +0000 garifullin_vlad_olegovish : sudo chmod +x myscript.sh
+2024-09-17 17:20:04.159 +0000 garifullin_vlad_olegovish : ./myscript.sh
+2024-09-17 17:20:26.270 +0000 garifullin_vlad_olegovish : rm cattext.txt
+2024-09-17 17:20:27.288 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 17:21:32.340 +0000 garifullin_vlad_olegovish : mkdir folder_for_delete
+2024-09-17 17:21:43.666 +0000 garifullin_vlad_olegovish : rmdir folder_for_delete
+2024-09-17 17:21:43.667 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 17:21:56.205 +0000 garifullin_vlad_olegovish : cd ..
+2024-09-17 17:22:30.220 +0000 garifullin_vlad_olegovish : rmdir pt
+2024-09-17 17:23:24.118 +0000 garifullin_vlad_olegovish : rmdir -Rfv pt
+2024-09-17 17:28:10.927 +0000 garifullin_vlad_olegovish : mkdir folderfordelete
+2024-09-17 17:28:11.964 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 17:28:31.757 +0000 garifullin_vlad_olegovish : rm -i folderfordelete
+2024-09-17 17:30:48.545 +0000 garifullin_vlad_olegovish : rmdir folderfordelete
+2024-09-17 17:30:50.819 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 17:44:03.785 +0000 garifullin_vlad_olegovish : rm -rf pt
+2024-09-17 17:44:05.924 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 17:49:52.403 +0000 garifullin_vlad_olegovish : useradd newuser
+2024-09-17 17:50:08.237 +0000 garifullin_vlad_olegovish : sudo useradd newuser
+2024-09-17 17:51:16.133 +0000 garifullin_vlad_olegovish : sudo passwd newuser
+2024-09-17 17:52:54.411 +0000 garifullin_vlad_olegovish : find . -name "1.txt"
+2024-09-17 17:53:41.947 +0000 garifullin_vlad_olegovish : grep text
+2024-09-17 17:53:55.954 +0000 garifullin_vlad_olegovish : ls | grep text
+2024-09-17 17:54:03.290 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 17:54:43.773 +0000 garifullin_vlad_olegovish : ping google.com
+2024-09-17 17:55:05.894 +0000 garifullin_vlad_olegovish : ping -c 3 localhost && df -h
+2024-09-17 17:55:52.676 +0000 garifullin_vlad_olegovish : ping -c 3 localhost || df -h
+2024-09-17 17:56:51.914 +0000 garifullin_vlad_olegovish : ping -c 3 localhost && ls
+2024-09-17 17:57:08.902 +0000 garifullin_vlad_olegovish : ping -c 3 localhost || ls
+2024-09-17 17:57:27.915 +0000 garifullin_vlad_olegovish : piny -c 3 localhost || ls
+2024-09-17 18:10:36.677 +0000 garifullin_vlad_olegovish : cd /var/log
+2024-09-17 18:10:37.860 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 18:13:28.800 +0000 garifullin_vlad_olegovish : nano command_history.log
+2024-09-17 18:13:35.157 +0000 garifullin_vlad_olegovish : ls
+2024-09-17 18:14:22.495 +0000 garifullin_vlad_olegovish : cp command_history ~/PTScript

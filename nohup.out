@@ -2,3 +2,9 @@
 The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
 Скрипт успешно запущен. Ожидание новых команд пользователей
 Для остановки скрипта выполните sudo kill 1440
+./compiled_script.sh.x: line 26: kill: (1388) - No such process
+Скрипт успешно запущен. Ожидание новых команд пользователей
+Для остановки скрипта выполните sudo kill 1399
+./compiled_script.sh.x: line 26: kill: (5869) - No such process
+Скрипт успешно запущен. Ожидание новых команд пользователей
+Для остановки скрипта выполните sudo kill 5880
